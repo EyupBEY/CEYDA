@@ -30,4 +30,4 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Firefox()
 driver.get('https://www.google.com')" > index.py
 
-sudo python3 index.py
+python3 index.py
