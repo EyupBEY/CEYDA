@@ -5,7 +5,7 @@
   wget https://raw.githubusercontent.com/EyupBEY/CEYDA/main/install.sh
   ```
   
-* Give It Some Permission
+* Give It Some(Read, Write & Execute) Permission
   ```sh
   sudo chmod 700 /home/pi/install.sh
   ```
