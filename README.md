@@ -1,5 +1,4 @@
-CEYDA
-# <h3 align="center">Crazy Enlarging Yieldly Developing Avenger</h3>
+# <h1 align="center">Crazy Enlarging Yieldly Developing Avenger</h1>
   <br />
   $wget https://raw.githubusercontent.com/EyupBEY/CEYDA/main/install.sh
   <br />
