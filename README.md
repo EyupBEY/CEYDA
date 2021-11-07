@@ -1,23 +1,16 @@
 # <h1 align="center">Crazy Enlarging Yieldly Developing Avenger</h1>
-  <br />
-  $
-  <br />
-  $
-  <br />
-  $
 
-
-* npm
+* Install Script
   ```sh
   wget https://raw.githubusercontent.com/EyupBEY/CEYDA/main/install.sh
   ```
   
-* npm
+* Give It Some Permission
   ```sh
   chmod +x install.sh
   ```
 
-* npm
+* Run
   ```sh
   ./install.sh
   ```
