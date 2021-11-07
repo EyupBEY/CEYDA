@@ -7,7 +7,7 @@
   
 * Give It Some Permission
   ```sh
-  chmod +x install.sh
+  sudo chmod 700 /home/pi/install.sh
   ```
 
 * Run
