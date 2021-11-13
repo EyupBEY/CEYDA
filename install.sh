@@ -3,9 +3,7 @@
 sudo apt-get update -y
 sudo apt-get upgrade -y
 
-
-grep -q "deb http://ports.ubuntu.com/ubuntu-ports bionic-updates main" "/etc/apt/sources.list" && echo "It Already Satisfied" || echo "deb http://ports.ubuntu.com/ubuntu-ports bionic-updates main" >> /etc/apt/sources.list
-
+echo 'deb http://ports.ubuntu.com/ubuntu-ports bionic-updates main' | sudo tee -a /etc/apt/sources.list
 
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 3B4FE6ACC0B21F32
 
